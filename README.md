@@ -1,5 +1,5 @@
 ![image (4)](https://github.com/user-attachments/assets/6982bf9a-d77b-4b20-b322-87a70357a057)
-In this diagram, we have used:
+Components used:
 
 1. 2911 Router, for the main campus network
 2. 3650-24PS Multi Layer Switch, for different departments in the buildings
